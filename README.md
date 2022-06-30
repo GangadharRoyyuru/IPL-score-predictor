@@ -1,4 +1,6 @@
 # IPL-score-predictor
+Team members - Sai Gowtham Tamminaina, Gangadhar Royyuru, Vishnu Tej, Aaditya Edupuganti
+
 Tried to predict IPL scores using Batting averages of respective teams and pitch average of particular match
 First we have collected the match wise data of IPL 2020, and structured each match as follows
   Match no.  team 1       team 2           runs 1         runs 2           stadium                Overs left
